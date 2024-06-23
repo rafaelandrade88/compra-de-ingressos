@@ -1,7 +1,7 @@
 <h1>Compre seu Ingresso</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Simulador de compras de ingressos, sendo possível escolher qual tipo do local e visualização da quantidade disponível ou indisponível.</p>
+<p>Simulador de compra de ingressos, sendo possível escolher qual tipo do local e visualização da quantidade disponível ou indisponível.</p>
 
 ## 🚀 Tecnologias
 <div>
